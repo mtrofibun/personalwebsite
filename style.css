@@ -1,0 +1,40 @@
+
+
+body{
+    background-image : url("website.png");
+    background-size: cover; 
+  font-family: 'Gamja Flower', cursive;
+  font-weight:900px;
+   font-size: 1.5rem;
+   
+}
+
+#taskbar{
+    background-color:#364c85;
+    padding:10px;
+    color :rgb(210, 218, 248);
+    font-family: 'Sour Gummy', cursive;
+}
+
+.custom-btn{
+    border:none;
+    color : rgb(210, 218, 248);
+}
+
+
+.custom-btn.active {
+    background-color: rgb(210, 218, 248);
+    
+    color : #364c85;
+}
+
+#about-container{
+    width: 60%; 
+    margin: 0 auto;
+    padding:30px;
+    margin-top : 30px;
+    color : rgb(210, 218, 248);
+    border-radius:15px;
+    
+    
+}
